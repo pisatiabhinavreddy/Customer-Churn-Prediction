@@ -71,15 +71,6 @@ To build a classification model that predicts whether a customer will churn (`1`
 
 ---
 
-## 🚀 How to Run
-
-### ▶️ Run in Google Colab
-1. Open the notebook in Google Colab  
-2. Upload dataset when prompted  
-3. Run all cells  
-
----
-
 ## 📊 Visualizations
 - Churn distribution  
 - Monthly charges vs churn  
